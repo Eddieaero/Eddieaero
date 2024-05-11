@@ -3,7 +3,7 @@
 
 **I'm Edson Kuzengwa, software engineer.
 
-Here are some ideas to get you started:
+Welcome!!!
 
 - 🔭 I’m currently working on ...
   SFMS a platform for managing crops on the farm fields with the help of online software applications and IoT (internet of things) for farm owners to easily manage resources and funds during the farming season

@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-**I'm Edson Kuzengwa, software engineer.
+**I'm Edson Kuzengwa, software engineer | machine learning engineer.
 
 Welcome!!!
 
 - 🔭 I’m currently working on ...
-  SFMS a platform for managing crops on the farm fields with the help of online software applications and IoT (internet of things) for farm owners to easily manage resources and funds during the farming season
+  Multiple user/product based softwares that aim at solving specific niche in the growing advanced global population
 - 🌱 I’m currently learning ...
   I'm currently learning about Machine learning algorithms with Django and Oracle Cloud infrastructure(OCI) for creating cloud based systems that can be accessed and monitored in real time with the help of continuous intergration and continuous deployment (CI/CD) 
 - 👯 I’m looking to collaborate on ...
